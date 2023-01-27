@@ -4,7 +4,7 @@ Update JIRA hours using JIRATool
 Dependency -
   Install Python3.9 or above
 
-  pip install PyQt5
+  pip install PyQt5,
   pip install JIRA
   
 ****************************************************
